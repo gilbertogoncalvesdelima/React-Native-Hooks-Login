@@ -31,6 +31,11 @@ git push origin (nome da branch)
 obs: Porque fazer uma Branch? 
 R: Para não interferir no arquivo principal master, que esta no github, depois só vai subir o que for aprovado.
 
+# Link para visualização do projeto, para ver o projeto rodando real, clone e rode no seu celular isso aqui é só para ter uma ideia como ficou, usando uma url
+codesandbox
+https://6ngc7.csb.app/
+
+
 
 
 
